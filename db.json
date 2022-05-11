@@ -1,20 +1,22 @@
-{"task":[
+{
+  "task": [
     {
-        "id":1,
-        "text": "Terminar el primer modulo",
-        "day": "agosto 13",
-        "reminder": true
+      "id": 2,
+      "text": "darle a Java",
+      "day": "jueves 17",
+      "reminder": false
     },
     {
-        "id":2,
-        "text": "estudiar Angular",
-        "day": "martes 13",
-        "reminder": false
+      "id": 3,
+      "text": "darle atomos",
+      "day": "sabado 17",
+      "reminder": true
     },
     {
-        "id":2,
-        "text": "darle a Java",
-        "day": "jueves 17",
-        "reminder": false
+      "id": 4,
+      "text": "terminar el ultimo",
+      "day": "jueves 17",
+      "reminder": true
     }
-]}
+  ]
+}
