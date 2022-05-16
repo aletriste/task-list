@@ -4,19 +4,19 @@
       "id": 2,
       "text": "darle a Java",
       "day": "jueves 17",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "darle atomos",
-      "day": "sabado 17",
       "reminder": true
     },
     {
       "id": 4,
-      "text": "terminar el ultimo",
+      "text": "algo mas",
       "day": "jueves 17",
       "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "este",
+      "day": "jueves 17",
+      "reminder": false
     }
   ]
 }
